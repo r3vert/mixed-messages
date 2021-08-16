@@ -11,14 +11,16 @@ This project randomly generates a message, for example it could generate "You sh
 ### Dependencies
 
 - Any system that can run node v16.6 and has a console
+- lodash .sample method
 
 ### Installing
 
 - Clone this project, then cd into it
+- run `npm install` or `yarn install`
 
 ### Executing program
 
-- just run node in the console
+- run node in the console
 
 ```
 node index.js
